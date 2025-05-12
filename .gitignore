@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Android/Java
+.gradle/
+.idea/
+build/
+
+# OS files
+*.log
